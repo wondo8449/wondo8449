@@ -9,7 +9,7 @@
 
 🎓Graduated NSU in Cheonan, Department of Drone Space Information Engineering<br>
 📜Educated sparta coding club JAVA track 5th<br>
-💌Email : 16101557@nsu.ac.kr<br>
+💌Email : wondo8448@gmail.com<br>
 
 <h2>🎈Front-end🎈</h2>
 
