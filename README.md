@@ -8,7 +8,7 @@
 <h2>🎈About Me🎈</h2>
 
 🎓Graduated NSU in Cheonan, Department of Drone Space Information Engineering<br>
-📜Educated Korea IT program in Seoul<br>
+📜Educated sparta coding club JAVA track 5th<br>
 💌Email : 16101557@nsu.ac.kr<br>
 
 <h2>🎈Front-end🎈</h2>
