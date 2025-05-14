@@ -40,5 +40,5 @@
 	
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wondo8449&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=wondo8449&show_icons=true">
-
+google.com, pub-4725699844372981, DIRECT, f08c47fec0942fa0
 </div>
